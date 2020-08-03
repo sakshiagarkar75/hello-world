@@ -1,2 +1,2 @@
 # hello-world
-My first repository.
+This is Sakshi Agarkar. I like to code in R and python. 
